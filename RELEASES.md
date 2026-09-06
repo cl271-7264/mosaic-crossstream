@@ -14,3 +14,4 @@
 - v0.2.2 Release Build8 2026-8-7
 - v0.2.3 Beta Build500 2026-8-18
 - v0.2.3 Release Build625 2026-8-29
+- v0.2.4 Alpha Build177 2026-9-6
