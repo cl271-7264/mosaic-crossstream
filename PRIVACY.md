@@ -1,12 +1,16 @@
 # Privacy Notice
 
-Last updated: 2026-07-15
+Last updated: 2026-09-25
+
+## Scope
+
+This notice covers the Windows launcher's local data and Microsoft account sign-in flow only. It does not cover Mosaic account authentication, friend, messaging, or voice services. Those features have a separate [Mosaic account and social privacy policy](https://auth.cl271.top/auth/privacy-en.html).
 
 ## Authentication
 
 Mosaic CrossStream does not collect Microsoft account passwords. Microsoft account authentication is completed on Microsoft-hosted pages through the OAuth 2.0 device code flow.
 
-The launcher uses the resulting authorization data only to maintain the signed-in user's local launcher session and to make the game-service requests the user has authorized. The project does not sell account data, share credentials with third parties, or operate a service that signs in on behalf of users.
+The launcher uses the resulting authorization data only to maintain the signed-in user's local launcher session and to make the game-service requests the user has authorized. The project does not sell Microsoft account data, share Microsoft credentials with third parties, or operate a service that signs in on behalf of users.
 
 ## Local data
 

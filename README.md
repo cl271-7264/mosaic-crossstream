@@ -31,11 +31,14 @@ Each platform integration is enabled only after the required authorization has b
 
 ## Project status
 
-Mosaic CrossStream is under active development. Its application source code is currently maintained in a private repository. This public repository provides project, privacy, security, and third-party integration documentation for platform review and public reference.
+Mosaic CrossStream is under active development. Its application source code is maintained in a private repository and is not open source. This public repository provides project, privacy, security, and third-party integration documentation for platform review and public reference. Public documentation and release downloads do not grant permission to copy, modify, fork, repackage, or redistribute the software.
+
+Official application releases may be downloaded, installed, and run for their intended purpose. See [Software Use Terms](SOFTWARE-TERMS.md) for the scope of this limited permission and third-party license boundaries.
 
 ## Privacy and security
 
 - [Privacy notice](PRIVACY.md)
+- [Software use terms](SOFTWARE-TERMS.md)
 - [Security policy](SECURITY.md)
 - [Project notice](NOTICE.md)
 
