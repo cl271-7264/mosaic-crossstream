@@ -16,6 +16,8 @@ The launcher uses the resulting authorization data only to maintain the signed-i
 
 The launcher may store local settings and the information needed to display and manage accounts, game versions, and launch configuration on the user's device. Users can remove a local account through the launcher and can revoke the application's access through their Microsoft account settings.
 
+The launcher also stores a random installation identifier locally and includes it in requests to official MCS services. It is used to deduplicate update and announcement delivery counts and to bind protected update downloads to the requesting installation.
+
 ## Network activity
 
 The launcher can contact configured project endpoints for functions such as updates, announcements, and user-requested resource metadata. If you allow search statistics and keep the setting enabled, it also sends the text you enter in resource search boxes to the project's word-dictionary statistics service. The service stores each search term and its count to identify common queries. These boxes accept free-form text, so do not enter email addresses, account names, tokens, or file paths. You can turn off reporting in launcher settings to stop future submissions. The server operator may also receive connection metadata, such as the IP address used for a request.
