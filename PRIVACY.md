@@ -22,7 +22,7 @@ The launcher also stores a random installation identifier locally and includes i
 
 The launcher can contact configured project endpoints for functions such as updates, announcements, and user-requested resource metadata. If you allow search statistics and keep the setting enabled, it also sends the text you enter in resource search boxes to the project's word-dictionary statistics service. The service stores each search term and its count to identify common queries. These boxes accept free-form text, so do not enter email addresses, account names, tokens, or file paths. You can turn off reporting in launcher settings to stop future submissions. The server operator may also receive connection metadata, such as the IP address used for a request.
 
-The launcher can contact official Microsoft, Xbox, and Minecraft services only as part of the account flow described in the project documentation and after the user begins that flow.
+Microsoft and Xbox services are contacted during the account flow you start. Separately, when loading version catalogs or installing Minecraft or Java files, the launcher requests metadata and files from Mojang-hosted services; a configured mirror such as BMCLAPI may be used as the selected source or as a fallback.
 
 ## Contact
 
