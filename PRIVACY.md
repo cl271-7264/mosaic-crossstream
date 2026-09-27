@@ -1,10 +1,10 @@
 # Privacy Notice
 
-Last updated: 2026-09-25
+Last updated: 2026-09-27
 
 ## Scope
 
-This notice covers the Windows launcher's local data and Microsoft account sign-in flow only. It does not cover Mosaic account authentication, friend, messaging, or voice services. Those features have a separate [Mosaic account and social privacy policy](https://auth.cl271.top/auth/privacy-en.html).
+This notice covers the Windows launcher's local data, Microsoft account sign-in, and launcher network activity. It does not cover Mosaic account authentication, friend, messaging, or voice services. Those features have a separate [Mosaic account and social privacy policy](https://auth.cl271.top/auth/privacy-en.html).
 
 ## Authentication
 
@@ -18,7 +18,9 @@ The launcher may store local settings and the information needed to display and 
 
 ## Network activity
 
-The launcher can contact configured project endpoints for functions such as updates, announcements, and user-requested resource metadata. It can contact official Microsoft, Xbox, and Minecraft services only as part of the account flow described in the project documentation and after the user begins that flow.
+The launcher can contact configured project endpoints for functions such as updates, announcements, and user-requested resource metadata. If you allow search statistics and keep the setting enabled, it also sends the text you enter in resource search boxes to the project's word-dictionary statistics service. The service stores each search term and its count to identify common queries. These boxes accept free-form text, so do not enter email addresses, account names, tokens, or file paths. You can turn off reporting in launcher settings to stop future submissions. The server operator may also receive connection metadata, such as the IP address used for a request.
+
+The launcher can contact official Microsoft, Xbox, and Minecraft services only as part of the account flow described in the project documentation and after the user begins that flow.
 
 ## Contact
 
