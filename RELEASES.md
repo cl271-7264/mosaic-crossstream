@@ -15,3 +15,4 @@
 - v0.2.3 Beta Build500 2026-8-18
 - v0.2.3 Release Build625 2026-8-29
 - v0.2.4 Alpha Build177 2026-9-6
+- v0.3.0 Release Build115 2026-10-6
