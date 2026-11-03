@@ -40,3 +40,4 @@
 禁止：源码、数据库、服务器 IP/端口、隧道配置、部署脚本、凭据、内部 API、未公开安全细节，以及任何会误导用户认为本项目开源或获得再发布许可的内容。
 
 相关页面：[软件条款](https://github.com/cl271-7264/mosaic-crossstream/blob/main/SOFTWARE-TERMS.md) · [隐私说明](https://github.com/cl271-7264/mosaic-crossstream/blob/main/PRIVACY.md) · [安全报告](https://github.com/cl271-7264/mosaic-crossstream/blob/main/SECURITY.md) · [版权声明](https://mcs.cl271.top/copyright.html) · [服务状态](https://mcs.cl271.top/status.html)
+- v0.3.1 Release Build417 2026-11-3
